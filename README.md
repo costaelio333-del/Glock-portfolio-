@@ -1,11 +1,11 @@
-# Glock-portfolio-
+# Ᏽ𐌋⏱️𐌂𐌊
 Proof of work (POW)
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ash & Black Gloss Portfolio - [Your Name]</title>
+    <title>Ash & Black Gloss Portfolio - [Ᏽ𐌋⏱️𐌂𐌊]</title>
     <!-- Load Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Load Lucide Icons for professional graphics -->
